@@ -2,8 +2,8 @@
 Implementation of the following paper:
 https://tschumperle.users.greyc.fr/publications/tschumperle_pami05.pdf
 
-Code folder
-===========
+Code folder:
+-----------
 main.m
 Has 4 sections:
 Image Denoising/Restoration
