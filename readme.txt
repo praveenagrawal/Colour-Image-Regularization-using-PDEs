@@ -7,7 +7,7 @@ Image Inpainting
 Image Resizing
 Flow Visualization
 
-Comment/Uncomment the appropriate section and change the following variables accordingly:
+Select the appropriate section and change the following variables accordingly before execution:
 1. Path to the input image in imread
 2. stepsize (dt)
 3. End time = number of iterations/step size (tend)
