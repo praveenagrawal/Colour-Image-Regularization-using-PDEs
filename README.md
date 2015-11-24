@@ -4,12 +4,11 @@ https://tschumperle.users.greyc.fr/publications/tschumperle_pami05.pdf
 
 Code folder:
 -----------
-main.m
-Has 4 sections:
-Image Denoising/Restoration
-Image Inpainting
-Image Resizing
-Flow Visualization
+main.m has 4 sections:
+1. Image Denoising/Restoration
+2. Image Inpainting
+3. Image Resizing
+4. Flow Visualization
 
 Select the appropriate section and change the following variables accordingly before execution:
 1. Path to the input image in imread
